@@ -11,8 +11,7 @@ Este proyecto es un prototipo avanzado de un *Third Person Shooter* (TPS) centra
 ![alt text](Media/gif3.gif) ![alt text](Media/gif4.gif)
 
 
-https://github.com/user-attachments/assets/560ff72e-896a-48f2-bccf-646e18c36464
-
+https://github.com/user-attachments/assets/18bf76e3-2e74-45d8-b316-e584c374dcf6
 
 
 ### 🔫 Sistemas Implementados (C#)
